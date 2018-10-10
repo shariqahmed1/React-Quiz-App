@@ -1,0 +1,17 @@
+.dash-main {
+    background-image:url('./Answers.jpg');
+    width:100%;
+    background-repeat:no-repeat;
+    background-size:cover;  
+    height:100vh;
+  }
+
+.go-link{
+  color: white;
+  text-decoration: none;
+}
+
+.go-link:hover{
+  color: white;
+  text-decoration: none;
+}
